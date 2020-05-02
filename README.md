@@ -1,0 +1,1 @@
+This is Altergo's first git project!
